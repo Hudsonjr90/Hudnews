@@ -21,7 +21,7 @@ Linux e macOS:
 
 ```bash
 git clone https://github.com/Hudsonjr90/Hudnews.git
-$ cd blognews
+$ cd hudnews
 $ yarn ou npm
 $ yarn start ou npm start
 ```
@@ -30,14 +30,14 @@ Windows:
 
 ```bash
 git clone https://github.com/Hudsonjr90/Hudnews.git
-$ cd blognews
+$ cd hudnews
 $ yarn ou npm
 $ yarn start ou npm start
 ```
 
 ## 🧾 Usando o projeto
 
-Com o projeto BlogNews você pode acessar as últimas notícias do Brasil e do mundo, em seu celular ou computador. Basta acessar o link:
+Com o projeto HudNews você pode acessar as últimas notícias do Brasil e do mundo, em seu celular ou computador. Basta acessar o link:
 
 # <a href="https://">Acesse o projeto</a>
 
