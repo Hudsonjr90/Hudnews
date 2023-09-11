@@ -1,0 +1,64 @@
+.filter {
+  max-width: 1120px;
+  margin: 2rem auto;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  select {
+    background-color: var(--gray-900);
+    color: #fff;
+    padding: 0.5rem;
+    border: 2px solid #29292e;
+    border-radius: 10px;
+  }
+}
+
+.content {
+  max-width: 1120px;
+  margin: 3rem auto;
+}
+
+.newsList {
+  margin-top: 2rem;
+  border-top: 1px solid #29292e;
+  padding: 2rem;
+
+  > div {
+    display: flex;
+    justify-content: space-between;
+
+    span {
+      font-size: 1rem;
+    }
+  }
+
+  a {
+    margin-top: 1.5rem;
+    display: block;
+
+    font-weight: bold;
+    font-size: 2.3rem;
+    color: var(--cyan-500);
+
+    transition: filter 0.2s;
+
+    &:hover {
+      filter: brightness(0.9);
+      text-decoration: underline;
+    }
+  }
+
+  p {
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 1160px) {
+  .filter {
+    > label {
+      margin-left: 2em;
+    }
+  }
+}
