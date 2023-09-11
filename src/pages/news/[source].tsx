@@ -76,7 +76,7 @@ export default function Source(props: SourcesProps) {
   return (
     <>
       <Head>
-        <title>Notícias | blognews</title>
+        <title>Notícias | hudnews</title>
       </Head>
 
       { loading ? (

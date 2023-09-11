@@ -47,7 +47,7 @@ Com o projeto BlogNews você pode acessar as últimas notícias do Brasil e do m
   <tr>
     <td align="center">
       <a href="https://github.com/hudshow90">
-        <img src="" width="100px;" alt="Foto"/><br>
+        <img src="./public/images/my.webp" width="100px;" alt="Foto"/><br>
         <sub>
           <b>Hudson Kennedy</b>
         </sub>

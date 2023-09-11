@@ -73,7 +73,7 @@ export default function Category(props: CategoryProps) {
   return (
     <>
       <Head>
-        <title>Notícias | blognews</title>
+        <title>Notícias | hudnews</title>
       </Head>
 
       { loading ? (
