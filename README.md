@@ -1,6 +1,6 @@
 # HudNews
 
-<img src="public/images/blognews.png" alt="exemplo imagem">
+<img src="public/images/hudnews.png" alt="exemplo imagem">
 
 > Blog de notícias criado com Next.js e utilizando a API do google news, sendo atualizado todas as notícias a cada 1 hora utilizando o conceito de SSG para gerar uma página estática quando as notícias são acessadas.
 
